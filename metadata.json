@@ -1,0 +1,5 @@
+{
+  "name": "Krea Text Remover Clone",
+  "description": "An AI-powered tool to remove text from images using Google Gemini 2.5 Flash.",
+  "requestFramePermissions": []
+}
