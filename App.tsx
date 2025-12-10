@@ -7,6 +7,7 @@ import { QualitySection } from './components/QualitySection';
 import { SpeedSection } from './components/SpeedSection';
 import { Testimonials } from './components/Testimonials';
 import { FAQ } from './components/FAQ';
+import { CallToAction } from './components/CallToAction';
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
         <SpeedSection />
         <Testimonials />
         <FAQ />
+        <CallToAction />
       </main>
     </div>
   );
